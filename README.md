@@ -1,4 +1,4 @@
-# Annas_Cookbook
+# Annas Cookbook
 A simple coding language that is read like a recipe made for Anna :)
 
 Install:
